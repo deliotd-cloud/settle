@@ -1,0 +1,16 @@
+{
+  "appId": "uk.co.settleapp.lifeintheuk",
+  "appName": "Settle",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 500,
+      "backgroundColor": "#06122b",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#06122b" }
+  }
+}
