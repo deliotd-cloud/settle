@@ -4,6 +4,7 @@ Independent, offline Life in the UK test preparation app for Android, published 
 
 - Package: `uk.co.settleapp.lifeintheuk`
 - Version: `1.0.0` (1)
+- Minimum Android version: Android 7.0 (API 24), required by Play automatic protection
 - Support: eliviontechnologies@gmail.com
 - Privacy: https://deliotd-cloud.github.io/settle/privacy-policy.html
 
